@@ -1,24 +1,25 @@
 # Stormworks-Vehicle-spawner
-Spawn vehicles anywhere</br>
-![vehicle spawner](https://user-images.githubusercontent.com/28710739/192510795-fa2482f2-7ce2-44c0-996b-b9392b12e3ac.png)</br>
+Spawn vehicles anywhere<br>
+![vehicle spawner](https://user-images.githubusercontent.com/28710739/192510795-fa2482f2-7ce2-44c0-996b-b9392b12e3ac.png)<br>
 
 # Info
+I've made a simple vehicle spawning addon so you can spawn any vehicle anywhere without fondling with mission editor and any other stuff.<br>
 I can't upload this addon to workshop because i don't have game on steam and i can't buy it because i live in Russia, so here we are.
 
 # Instalation
-Just drop folder in AppData\Roaming\Stormworks\data\missions</br>
+Just drop folder in AppData\Roaming\Stormworks\data\missions<br>
 
-# Command list</br>
-## ?help </br>
+# Command list
+## ?help
 prints command list in chat</br>
-## ?spawnV [vehicleName] [spawnOffsetV] [spawnOffsetH]</br>
+## ?spawnV [vehicleName] [spawnOffsetV] [spawnOffsetH]<br>
 usage: ?spawnV helicopter 2 5</br>
-vehicleName - your saved vehicle name, without spaces</br>
-spawnOffsetV (optional) - horizontal offset of spawning vehicle</br>
-spawnOffsetH (optional) - vertical offset of spawning vehicle</br>
-if both not specified or set to 0, vehicle will spawn inside you</br>
+vehicleName - your saved vehicle name, without spaces<br>
+spawnOffsetV (optional) - horizontal offset of spawning vehicle<br>
+spawnOffsetH (optional) - vertical offset of spawning vehicle<br>
+if both not specified or set to 0, vehicle will spawn inside you<br>
 
-## ?despawnV [vehicleID]</br>
+## ?despawnV [vehicleID]
 usage: ?despawnV 621</br>
 vehicleID (optional) - ID of a vehicle you want to despawn. If not specified you need to seat in vehicle you want to despawn</br>
 
