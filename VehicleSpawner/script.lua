@@ -2,7 +2,7 @@ lastSpawned = ""
 
 function onPlayerRespawn(peer_id)
 
-	server.notify(peer_id, "Vehicle spawner loaded", "Type ?help for command list", 8)
+	server.notify(peer_id, "Vehicle spawner loaded", "Type ?help for command list \nMade by Vulperion", 8)
 	server.announce("Vehicle spawner loaded", "Type ?help for command list \nMade by Vulperion", peer_id)
 
 end
