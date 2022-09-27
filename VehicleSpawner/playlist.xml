@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist path_id="app_data/data/missions/VehicleSpawner" folder_path="data/missions/VehicleSpawner" file_store="4" name="Vehicle spawner">
+	<locations location_id_counter="6" component_id_counter="1">
+		<locations/>
+	</locations>
+</playlist>
+
