@@ -7,7 +7,10 @@ I've made a simple vehicle spawning addon so you can spawn any vehicle anywhere 
 I can't upload this addon to workshop because i don't have game on steam and i can't buy it because i live in Russia, so here we are.
 
 # Instalation
-Just drop folder in AppData\Roaming\Stormworks\data\missions<br>
+Just drop folder in AppData\Roaming\Stormworks\data\missions
+
+# Usage
+As far as i'm aware, to use this addon, or in that case any other addons, you need to create a new save and enable it in addon section on world creation menu.
 
 # Command list
 ## ?help
