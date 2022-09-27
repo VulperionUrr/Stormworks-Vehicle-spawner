@@ -25,4 +25,4 @@ vehicleID (optional) - ID of a vehicle you want to despawn. If not specified you
 
 # Things i can't or to lazy to fix
 * If you enter invalid saved vehicle name it will say vehicle spawned and give you id, but nothing actuly will spawn
-* You can't spawn vehicles with spaces in save name, it's a problem with onCustomCommand function that will treat all words with spaces as separate arguments and i could write my own function for command detection but i'm to lazy
+* You can't spawn vehicles with spaces in save name, it's a problem with onCustomCommand function that will treat all words with spaces as separate arguments
